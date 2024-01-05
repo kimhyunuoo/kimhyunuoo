@@ -34,7 +34,7 @@
 ## hyunwoo's velog  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyunwoo-velog)](https://velog.io/@hyunwoo-kim)
 <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunwoo-kim)](https://https://github.com/kimhyunuoo)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunwoo-kim)](https://github.com/kimhyunuoo/kimhyunuoo)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
